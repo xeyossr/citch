@@ -46,7 +46,6 @@ flags:
 
 # Configuration
 
-> [!INFO]
 > Before doing these, you need to create a configuration file with the `--gen-config` flag.
 
 ### `~/.config/citch/config.json` - config file
