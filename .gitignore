@@ -1,1 +1,13 @@
 .vscode
+*.o
+*.out
+*.a
+*.so
+*.exe
+*.dSYM
+*.dll
+*.obj
+*.swp
+*.swo
+*~
+/pkg/
