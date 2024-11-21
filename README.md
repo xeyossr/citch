@@ -33,7 +33,7 @@ wget https://raw.githubusercontent.com/xeyossr/citch/main/install.sh && sh insta
 # Usage
 
 ```
-nitch
+citch
 ```
 
 flags:
