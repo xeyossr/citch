@@ -1,7 +1,7 @@
 pkgname=citch
 pkgver=1.0.0
 pkgrel=1
-pkgdesc="A description of the package"
+pkgdesc="citch - fast system fetch written in c++"
 arch=('x86_64')
 url="https://github.com/xeyossr/citch"
 license=('GPL3')
