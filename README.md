@@ -9,7 +9,7 @@
 
 ![License](https://img.shields.io/github/license/xeyossr/citch?style=for-the-badge)
 ![Commits](https://img.shields.io/github/commit-activity/m/xeyossr/citch?style=for-the-badge)
-![AUR](https://img.shields.io/aur/version/citch?style=for-the-bade)
+![AUR](https://img.shields.io/aur/version/citch?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xeyossr/citch?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/xeyossr/citch?style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/xeyossr/citch?style=for-the-badge)
@@ -27,11 +27,13 @@ Why C++? Well, because I started learning C++ and couldn’t think of anything e
 # Installation
 
 If you are using Arch Linux or an Arch-based distribution, you can download `citch` from AUR:
+
 ```bash
 yay -S citch
 ```
 
 If you are not using an Arch-based distribution:
+
 ```bash
 wget https://raw.githubusercontent.com/xeyossr/citch/main/install.sh && sh install.sh
 ```
