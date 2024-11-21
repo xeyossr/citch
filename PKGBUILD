@@ -6,7 +6,7 @@ arch=('x86_64')
 url="https://github.com/xeyossr/citch"
 license=('GPL3')
 depends=()
-makedepends=('g++')
+makedepends=('gcc')
 
 source=("git+https://github.com/xeyossr/citch.git")
 sha256sums=('SKIP')
