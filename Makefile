@@ -1,7 +1,7 @@
 CXX = g++
 CXXFLAGS = -Wall -std=c++17
 
-TARGET = citch
+TARGET = citch_bin
 SRC = citch.cpp modules/banners.cpp
 OBJ = $(SRC:.cpp=.o)
 
@@ -15,4 +15,3 @@ $(TARGET): $(OBJ)
 
 clean:
 	rm -f $(OBJ) $(TARGET)
-
