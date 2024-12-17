@@ -7,6 +7,8 @@
 </h3>
 <br>
 
+![preview](assets/preview.png)
+
 ![License](https://img.shields.io/github/license/xeyossr/citch?style=for-the-badge)
 ![Commits](https://img.shields.io/github/commit-activity/m/xeyossr/citch?style=for-the-badge)
 ![AUR](https://img.shields.io/aur/version/citch?style=for-the-badge)
