@@ -37,7 +37,10 @@ yay -S citch
 If you are not using an Arch-based distribution:
 
 ```bash
-wget https://raw.githubusercontent.com/xeyossr/citch/main/install.sh && sh install.sh
+mkdir -p build && cd build
+cmake ..
+make
+sudo cp build/citch /usr/bin/citch
 ```
 
 # Usage
