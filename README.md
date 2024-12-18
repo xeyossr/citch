@@ -37,6 +37,7 @@ yay -S citch
 If you are not using an Arch-based distribution:
 
 ```bash
+git clone https://github.com/xeyossr/citch.git
 mkdir -p build && cd build
 cmake ..
 make
